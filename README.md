@@ -22,12 +22,18 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 ---
+### 👨‍💻 About Me  
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/rajshahsanatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/rajshahsanatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+- 🎓 I’m a **Final Year Student** at *Bharati Vidyapeeth University*  
+- 🌐 Interested in **Web Development**, **Artificial Intelligence**, and **Open Source**  
+- 📚 Currently learning **React Native**, **Java**, and exploring the **MERN Stack**  
+- 🚀 My Goal: *Keep exploring new things, try innovative ideas, and stand out from the rest*  
+- 🛠️ Projects I’ve worked on:  
+  - 🌟 Portfolio Website  
+  - 🛒 Online Grocery Store  
+  - ☁️ Weather Checking App  
+  - 🧮 Attractive Calculator  
+  - 🔗 *...and many more!*  
 
 ---
 
@@ -79,5 +85,11 @@
 ### ✍️ Quote of the Day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/rajshahsanatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/rajshahsanatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
 ---

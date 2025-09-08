@@ -71,7 +71,7 @@
 
 ### 🐍 This Section will Visible Soon 😊 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/🐍%20Snake%20Animation%20Coming%20Soon...-black?style=for-the-badge&logo=zap&logoColor=white&labelColor=blue&color=black" />
+  <img src="https://media.giphy.com/media/26Ff6nDUt5WDWUu3O/giphy.gif" width="500" alt="Coming Soon Animation"/>
 </p>
 
 ---

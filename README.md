@@ -18,9 +18,7 @@
 ---
 
 <!-- Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajshahsanatani/rajshahsanatani/main/coding.gif" width="500" alt="coding gif"/>
-</p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
 
 ---
 

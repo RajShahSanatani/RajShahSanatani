@@ -71,7 +71,7 @@
 
 ### 🐍 This Section will Visible Soon 😊 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&repeat=false&width=435&lines=🐍+Snake+Animation+Coming+Soon..." alt="Blinking text" />
+  <img src="https://custom-icon-badges.demolab.com/badge/🐍%20Snake%20Animation%20Coming%20Soon...-black?style=for-the-badge&logo=zap&logoColor=white&labelColor=blue&color=black" />
 </p>
 
 ---

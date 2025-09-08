@@ -71,7 +71,7 @@
 
 ### 🐍 This Section will Visible Soon 😊 
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300" alt="Work in progress..." />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coming soon..." />
 </p>
 
 ---

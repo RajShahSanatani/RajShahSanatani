@@ -69,7 +69,7 @@
 ---
 
 ### 🐍 Contribution Snake:
-![snake gif](https://github.com/rajshahsanatani/rajshahsanatani/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rajshahsanatani/rajshahsanatani/blob/output/dist/snake.svg)
 
 ---
 

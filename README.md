@@ -71,7 +71,7 @@
 
 ### 🐍 This Section will Visible Soon 😊 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coming soon..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&repeat=false&width=435&lines=🐍+Snake+Animation+Coming+Soon..." alt="Blinking text" />
 </p>
 
 ---

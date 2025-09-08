@@ -68,8 +68,8 @@
 
 ---
 
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/rajshahsanatani/rajshahsanatani/blob/output/dist/snake.svg)
+### 🐍 Contribution 
+![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Raj%20Shah&fontAlign=50&fontAlignY=40&color=gradient)
 
 ---
 

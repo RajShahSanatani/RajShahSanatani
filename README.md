@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raj Shah</h1>
+ 
+![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Raj%20Shah&fontAlign=50&fontAlignY=40&color=gradient)
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
-
+<h1 align="center">Hi 👋, I'm Raj Shah</h1>
 ---
 
 <!-- Typing Animation -->

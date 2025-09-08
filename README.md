@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raj Shah</h1>
+<h1 align="center">Hi 👋, I'm Raj Shah</[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFAB&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Shah;MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshahsanatani&label=Profile%20views&color=0e75b6&style=flat" alt="rajshahsanatani" /> </p>

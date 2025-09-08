@@ -70,12 +70,14 @@
 ---
 
 ### 🐍 This Section will Visible Soon 😊 
-![Coming Soon](https://capsule-render.vercel.app/api?type=rect&height=100&text=🚧%20Snake%20Animation%20Coming%20Soon...&fontAlign=50&fontAlignY=50&color=gradient)
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300" alt="Work in progress..." />
+</p>
 
 ---
 
 ### ✍️ Quote of the Day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-*"Code is like humor. When you have to explain it, it’s bad."*
+
 
 ---

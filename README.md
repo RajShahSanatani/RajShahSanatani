@@ -33,7 +33,7 @@
   - 🛒 Online Grocery Store  
   - ☁️ Weather Checking App  
   - 🧮 Attractive Calculator  
-  - 🔗 [Rajshahsanatani](https://github.com/RajShahSanatani)
+  - 🔗 [Rajshahsanatani](https://github.com/RajShahSanatani?tab=repositories)
 
 ---
 

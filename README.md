@@ -29,10 +29,10 @@
 - 📚 Currently learning **React Native**, **Java**, and exploring the **MERN Stack**  
 - 🚀 My Goal: *Keep exploring new things, try innovative ideas, and stand out from the rest*  
 - 🛠️ Projects I’ve worked on:  
+  - 🧮 [Real Time Chat App](https://chatify-sr2n.onrender.com)
   - 🌟 Portfolio Website  
   - 🛒 Online Grocery Store  
   - ☁️ Weather Checking App  
-  - 🧮 Attractive Calculator  
   - 🔗 [Rajshahsanatani](https://github.com/RajShahSanatani?tab=repositories)
 
 ---

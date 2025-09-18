@@ -30,7 +30,7 @@
 - 🚀 My Goal: *Keep exploring new things, try innovative ideas, and stand out from the rest*  
 - 🛠️ Projects I’ve worked on:  
   - 🧮 [Real Time Chat App](https://chatify-sr2n.onrender.com)
-  - 🌟 Portfolio Website  
+  - 🌟 [Portfolio](https://rajshahportfolio.netlify.app/)
   - 🛒 Online Grocery Store  
   - ☁️ Weather Checking App  
   - 🔗 [Rajshahsanatani](https://github.com/RajShahSanatani?tab=repositories)

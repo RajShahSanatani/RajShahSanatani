@@ -31,7 +31,7 @@
 - 🛠️ Projects I’ve worked on:  
   - 🧮 [Real Time Chat App](https://chatify-sr2n.onrender.com)
   - 🌟 [Portfolio](https://rajshahportfolio.netlify.app/)
-  - 🛒 Online Grocery Store  
+  - 🛒 Online Grocery Store
   - ☁️ Weather Checking App  
   - 🔗 [Rajshahsanatani](https://github.com/RajShahSanatani?tab=repositories)
 

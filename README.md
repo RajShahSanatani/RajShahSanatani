@@ -1,6 +1,6 @@
   
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋%2C%20I'm%20Raj%20Shah&fontAlign=50&fontAlignY=40&color=gradient)
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3> 
 
 ---
 

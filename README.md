@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFAB&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Explorer)](https://git.io/typing-svg)
 
---- 
+---
 
 <!-- Badges -->
 <p align="center">
